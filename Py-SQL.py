@@ -1,5 +1,5 @@
 #date created:8-may-2021
-#made by: Shubhankur Singh of class XII-E from K.D.B PUBLIC SCHOOL
+#made by: Shubhankur Singh
 import mysql.connector
 hst=input("Enter host name:")
 usr=input("Enter User name:")
